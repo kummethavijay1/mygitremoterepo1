@@ -1,3 +1,3 @@
-# vijaylog
-this is for git hooks  of vijaylogin
+# MAHAlog
+this is for git hooks  of mahalogin
 1st commit
